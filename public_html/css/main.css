@@ -384,3 +384,10 @@ height: 700px;
 -ms-filter: brightness(30%);
 
 }
+
+.store-head {
+    position: absolute;
+    left: 30px;
+    top: 10px;
+
+}
