@@ -448,3 +448,20 @@ margin: 4px 16px;
    
 
 }
+
+.btn-b {
+text-transform: uppercase;
+font-weight: 400;
+font-family: "Open Sans",Helvetica,Arial,sans-serif;
+  position: absolute;
+    left: 620px;
+    top: 400px;
+    border: 2px solid #FFF  ;
+text-align: center;
+cursor: pointer;
+z-index: 50;
+color: #FB0000;
+padding: 12px 24px;
+width: 170px;
+margin: 4px 16px;
+}
