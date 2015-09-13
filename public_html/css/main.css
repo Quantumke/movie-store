@@ -752,18 +752,22 @@ background: #3C3C3C;
 height: 250px;
 margin-top: 40px;
 
-
+background:  url(../img/footermap.png);
+background-size: cover;
+background-repeat: no-repeat;
 }
 
 .globe {
-position: absolute;
-left:30px;
+
+margin-left: 50px;
 font-family: Candara;
 color: #E74C3C;
 width: 400px;
 height: 200px;
-background:  url(../img/footermap.png);
-background-size: cover;
-background-repeat: no-repeat;
+
 font-size: 20px;
+text-align: center;
+float: left;
 }
+
+
