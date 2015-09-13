@@ -388,6 +388,8 @@ height: 700px;
 .store-head {
     position: absolute;
     left: 30px;
-    top: 10px;
+    top:30px;
+    font-size: 50px;
+    font-family: "CSNPWDT NFI";
 
 }
