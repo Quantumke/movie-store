@@ -393,3 +393,30 @@ height: 700px;
     font-family: "CSNPWDT NFI";
 
 }
+
+.store-links {
+    position: absolute;
+left: 1000px;
+top: 50px;
+font-size:small;
+color: #FFF;
+text-transform: uppercase;
+font-family:Candara;
+
+}
+a:link {
+    text-decoration: none;
+    color: #F2F2F4;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f16529;
+    border-bottom:#fff 5px solid;
+
+a:active {
+    text-decoration: underline;
+}
