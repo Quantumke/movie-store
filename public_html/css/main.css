@@ -601,4 +601,14 @@ height: 30px;
   top: 700px;
       position: absolute;
 }
+.spark {
+	position: relative;
+	overflow: hidden;
+        width: 100%
+}
 
+.spark-b .content {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
