@@ -494,21 +494,20 @@ width: 100%;
 
 .new-products {
     width: 700px;
-    height: 500px;
-    
+    height:100%;
     margin-left: 10px;
-    
-
+  background:#3C3C3C;
+  float: left;
 }
 
 .item-wrapper {
     width: 600px;
     height: 300px;
     
-    position: absolute;
+   
     margin-left: 30px;
     margin-top: 30px;
-    
+    z-index: 1;
 
 }
 
@@ -556,7 +555,7 @@ height: 30px;
 }
 
 .badge1 {
-		position:absolute;
+		position: relative;
 }
 	.badge1[data-badge]:after {
 		content:attr(data-badge);
