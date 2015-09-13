@@ -58,6 +58,7 @@ textarea {
 
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
+    background: #3C3C3C;
 }
 
 .wrapper {
@@ -497,7 +498,7 @@ width: 100%;
     height:100%;
     margin-left: 10px;
   background:#3C3C3C;
-  float: left;
+  
 }
 
 .item-wrapper {
