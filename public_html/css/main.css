@@ -749,7 +749,7 @@ cursor: pointer;
 
 .footer-custom {
 background: #3C3C3C;
-height: 250px;
+height: 300px;
 margin-top: 40px;
 
 background:  #3C3C3C;
@@ -771,3 +771,13 @@ float: left;
 }
 
 
+
+.text-msg {
+width: 100%;
+       color: #E74C3C;
+       background: #3C3C3C; 
+       border: 2px #E74C3C solid;
+       font-family: Candara;
+       font-size: small;
+       text-align: center;
+}
