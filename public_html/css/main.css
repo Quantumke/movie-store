@@ -494,7 +494,7 @@ width: 100%;
 
 
 .new-products {
-    width: 700px;
+    width: 650px;
     height:100%;
     margin-left: 10px;
   background:#3C3C3C;
@@ -566,9 +566,38 @@ height: 30px;
 		font-size:.7em;
 		background:#FB0000;
 		color:white;
-		width:35px;height:35px;
+		width:45px;height:45px;
 		text-align:center;
-		line-height:35px;
+		line-height:45px;
 		border-radius:50%;
 		box-shadow:0 0 1px #333;
 	}
+
+
+        .badge2 {
+		position: relative;
+}
+	.badge2[data-badge]:after {
+		content:attr(data-badge);
+		position:absolute;
+		top:-10px;
+		right:-10px;
+		font-size:.7em;
+		background:#FB0000;
+		color:white;
+		width:45px;height:45px;
+		text-align:center;
+		line-height:45px;
+		border-radius:50%;
+		box-shadow:0 0 1px #333;
+	}
+
+.featured-products {
+
+     width: 600px;
+    height:100%;
+    margin-left: 650px;
+  background:#3C3C3C;
+  top: 700px;
+      position: absolute;
+}
