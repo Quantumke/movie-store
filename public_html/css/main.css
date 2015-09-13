@@ -397,7 +397,7 @@ height: 700px;
 .store-links {
     position: absolute;
 left: 1000px;
-top: 50px;
+top: 40px;
 font-size:small;
 color: #FFF;
 text-transform: uppercase;
@@ -426,8 +426,8 @@ a:active {
 
 .social-icons-top {
     position: absolute;
-    left: 220px;
-    top: 200px;
+    left: 70px;
+    top: 90px;
 }
 
 .btn {
@@ -454,7 +454,7 @@ text-transform: uppercase;
 font-weight: 400;
 font-family: "Open Sans",Helvetica,Arial,sans-serif;
   position: absolute;
-    left: 620px;
+    left: 720px;
     top: 400px;
     border: 2px solid #FFF  ;
 text-align: center;
@@ -464,4 +464,16 @@ color: #FB0000;
 padding: 12px 24px;
 width: 170px;
 margin: 4px 16px;
+}
+
+.header-text {
+position: absolute;
+left: 250px;
+color: #FB0000;
+top: 250px;
+font-size:80px;
+text-transform: uppercase;
+    
+    
+    
 }
