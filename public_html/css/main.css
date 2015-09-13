@@ -618,21 +618,22 @@ width: 100%;
 margin-left: 80px;
 width: 200px;
 height: 300px;
-border: 1px solid red;
+
 position: absolute;
     top: 1750px;
-    
+    text-align: center;
+    text-align: justify;
 }
 
 .process-2 {
  margin-left:570px;
 width: 200px;
 height: 300px;
-border: 1px solid green;
+
 position: absolute;
     top: 1750px;
-       
-    
+  text-align: center;      
+   text-align: justify; 
 
 }
 
@@ -640,8 +641,13 @@ position: absolute;
 margin-left:1050px;
 width: 200px;
 height: 300px;
-border: 1px solid yellow;
+
 position: absolute;
     top: 1750px;
-    
+    text-align: center;   
+    text-align: justify;
+}
+
+.process-description {
+font-size:small;
 }
