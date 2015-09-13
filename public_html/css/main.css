@@ -397,14 +397,44 @@ height: 694.5px;
 
 .store-links {
     position: absolute;
-left: 1000px;
+left: 880px;
 top: 40px;
 font-size:small;
 color: #FFF;
 text-transform: uppercase;
 font-family:Candara;
+text-decoration: blink ;
 
 }
+
+.cart-button{
+    position: absolute;
+left: 1185px;
+top: 40px;
+
+font-size:small;
+color: #00ff00;
+text-transform: uppercase;
+font-family:Candara;
+position: fixed;
+
+    
+}
+
+.cart-button:hover,
+.cart-button:focus {
+    border: 1px solid #00ff00;
+    outline: 0;
+    color: #fb0000;
+    background-color: transparent;
+}
+    
+
+
+
+
+
+
 a:link {
     text-decoration: none;
     color: #F2F2F4;
