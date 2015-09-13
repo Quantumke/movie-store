@@ -377,7 +377,7 @@ background: url(../img/header.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 width: 100%;
-height: 700px;
+height: 694.5px;
       -webkit-filter: brightness(50%);
 -moz-filter: brightness(50%);
 -o-filter: brightness(50%);
@@ -476,4 +476,16 @@ text-transform: uppercase;
     
     
     
+}.about {
+background: url(../img/header-2.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+width: 100%;
+height: 600.5px;
+      -webkit-filter: brightness(30%);
+-moz-filter: brightness(30%);
+-o-filter: brightness(30%);
+-ms-filter: brightness(30%);
+margin-left: 10%;
+margin-right: 10%;
 }
