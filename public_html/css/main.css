@@ -486,6 +486,17 @@ height: 600.5px;
 -moz-filter: brightness(30%);
 -o-filter: brightness(30%);
 -ms-filter: brightness(30%);
+
+}
+
+.container {
 margin-left: 10%;
 margin-right: 10%;
 }
+
+.img-left {
+
+width: 50%; 
+
+}
+
