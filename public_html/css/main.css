@@ -554,3 +554,21 @@ height: 30px;
   
      margin-top: 250px;
 }
+
+.badge1 {
+		position:absolute;
+}
+	.badge1[data-badge]:after {
+		content:attr(data-badge);
+		position:absolute;
+		top:-10px;
+		right:-10px;
+		font-size:.7em;
+		background:#FB0000;
+		color:white;
+		width:35px;height:35px;
+		text-align:center;
+		line-height:35px;
+		border-radius:50%;
+		box-shadow:0 0 1px #333;
+	}
