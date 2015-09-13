@@ -551,8 +551,7 @@ position: absolute;
 width: 300px;
 height: 30px;
   margin-left: 250px;
-  
-     margin-top: 250px;
+     margin-top: 260px;
 }
 
 .badge1 {
@@ -651,3 +650,29 @@ position: absolute;
 .process-description {
 font-size:small;
 }
+
+.btn-item-movie {
+text-transform: uppercase;
+font-weight: 40;
+font-family: "Open Sans",Helvetica,Arial,sans-serif;
+  
+    border: 1px solid #FFF  ;
+text-align: center;
+cursor: pointer;
+
+color: #FB0000;
+padding: 6px 12px;
+width: 100px;
+margin: 2px 06px;
+}
+
+
+    .btn-item-movie:hover,
+.btn-item-movie:focus {
+    border: 2px solid #fb0000;
+    outline: 0;
+    color: #fff;
+    background-color: #fb0000;
+}
+    
+
